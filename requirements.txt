@@ -1,0 +1,11 @@
+fastapi
+torch
+torchvision
+torchaudio
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+jupyterlab
+scikit-learn
