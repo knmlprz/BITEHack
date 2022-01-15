@@ -10,3 +10,4 @@ seaborn
 jupyterlab
 scikit-learn
 keras
+tensorflow
