@@ -9,3 +9,4 @@ matplotlib
 seaborn
 jupyterlab
 scikit-learn
+yt-dlp
