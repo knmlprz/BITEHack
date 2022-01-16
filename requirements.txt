@@ -13,3 +13,4 @@ keras
 tensorflow
 cv2
 pytesseract
+re
