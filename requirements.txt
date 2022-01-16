@@ -9,5 +9,11 @@ matplotlib
 seaborn
 jupyterlab
 scikit-learn
-keras
 tensorflow
+transformers
+shap
+ipywidgets
+detoxify
+flask
+praw
+nbconvert
