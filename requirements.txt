@@ -11,3 +11,5 @@ jupyterlab
 scikit-learn
 keras
 tensorflow
+import cv2
+import pytesseract
