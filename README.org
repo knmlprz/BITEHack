@@ -12,3 +12,5 @@ Plik najlepiej przeglądać z pomocą Jupyter Lab, który można otworzyć poni�
 #+begin_src shell
 jupyter lab
 #+end_src
+* Model propozycji "ugrzeczniania" wypowiedzi
+Plik otwierać z pomocą Jupyter Lab - =LoveSpeachHelper.ipynb=.
