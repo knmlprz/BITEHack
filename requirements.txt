@@ -16,3 +16,4 @@ ipywidgets
 detoxify
 flask
 praw
+nbconvert
