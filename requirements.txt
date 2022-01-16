@@ -14,3 +14,4 @@ transformers
 shap
 ipywidgets
 detoxify
+flask
