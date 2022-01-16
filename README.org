@@ -1,0 +1,8 @@
+#+TITLE: Log-normal People
+
+* Wykrywanie i korekta negatywnych emocji w sieci
+Aby uruchomić wszystko należy wykonać
+#+begin_src shell
+pip install -r requirements.txt
+#+end_src
+Wszystkie modele i kod dostępne są w pliku =Presentation.ipynb=. Jeżeli wykresy nie są widoczne - patrz =Readme.pdf=.
